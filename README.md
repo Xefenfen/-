@@ -1,2 +1,2 @@
-# 点
-godot4.4.1简单文本阅读游戏，中英双译
+# Point
+Godot 4.4.1: a simple bilingual (Chinese–English) text-based reading game.
